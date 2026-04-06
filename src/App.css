@@ -1,0 +1,29 @@
+ main{
+  width: 100%;
+  height: 100vh;
+  background: #ccc;
+}
+section{
+  width: 100%;
+  height: 60vh;
+  background: #888;
+}
+.comp{
+  width: 25%;
+  height: 50vh;
+  background: linear-gradient(135deg) ,#710b85 0%,#094f72 100%;
+}
+.icone{
+  width: 50%;
+  height: auto;
+  aspect-ratio: 1/1;
+  background: #fff;
+  border-radius: 25%;
+  margin-left: 25%;
+  margin-top: 5vh;
+}
+h1{
+  font-family:Arial, Helvetica,'helverica newe', sans-serif;
+  font-size:1.2rem;
+  color: #fff;
+}
